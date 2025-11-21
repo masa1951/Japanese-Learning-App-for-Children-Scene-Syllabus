@@ -1,0 +1,24 @@
+# Unity-specific files to ignore
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[L]ogs/
+[I]nstallers/
+
+# Dependency files
+Packages/
+.vs/
+.vscode/
+
+# Gradle related
+*.apk
+*.aab
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# TextMesh Pro generated files (if applicable)
+Assets/TextMesh Pro/Fonts/NotoSansJP-Medium SDF.asset

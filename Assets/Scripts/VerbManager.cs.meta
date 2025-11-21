@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: 4087c5145978543458c47aad069cfeff
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dataText1: {instanceID: 0}
+  - dataText2: {instanceID: 0}
+  - dataText3: {instanceID: 0}
+  - dataText4: {instanceID: 0}
+  - dataText5: {instanceID: 0}
+  - dataText6: {instanceID: 0}
+  - dataText7: {instanceID: 0}
+  - textAsset: {fileID: 4900000, guid: ea1eb3c36922ac2489ddec029bc9fd38, type: 3}
+  - verb1: {fileID: 21300000, guid: 0be8db47a47c5174a953f5c8b8eb1605, type: 3}
+  - verb2: {fileID: 21300000, guid: 3a6a358668091774a9ce6b2f69779bcf, type: 3}
+  - verb3: {fileID: 21300000, guid: c1cb1bb6a4c8f41469fd369a302df127, type: 3}
+  - verb4: {fileID: 21300000, guid: 2543e451129a1f140bb98ac78d3d1568, type: 3}
+  - verb5: {fileID: 21300000, guid: 31ee2cc8be04f8245abe42dba2914903, type: 3}
+  - verb6: {fileID: 21300000, guid: ac71c84d57e95784291f1f2b3705f111, type: 3}
+  - verb7: {fileID: 21300000, guid: d17743336fd30d745af885879bbb241c, type: 3}
+  - verb8: {fileID: 21300000, guid: 6cfcc4353a6bb1e47b27f72307c6b126, type: 3}
+  - verb9: {fileID: 21300000, guid: feaf83341e1d69441a78a0babf6190e4, type: 3}
+  - verb10: {fileID: 21300000, guid: f4cb56e38d01059459ae3523d51be43f, type: 3}
+  - abc: {fileID: 8300000, guid: 0185a470d9f40314b8f56b7ec2947970, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
